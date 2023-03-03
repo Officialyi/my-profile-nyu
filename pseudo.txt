@@ -1,0 +1,8 @@
+First, I create my directory and page.
+Second, I initialize git
+Third, I add in my code and changes
+Fourth, I add to git
+Fifth, I commit
+Sixth, I create a respository on github.
+Seventh, I add the repository to my terminal for my git instance
+Eight, I push
